@@ -1,0 +1,7 @@
+build/
+build-*/
+*.zingvid
+*.mp4
+*.png
+.cache/
+compile_commands.json
